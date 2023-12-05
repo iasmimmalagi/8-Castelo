@@ -1,0 +1,16 @@
+body {
+    background-color: peachpuff;
+}
+
+#titulo {
+    font-size: 70px;
+    text-align: center;
+    color:red (192, 20,123) ;
+
+}
+header {
+    padding: 20px;
+    background-color:aqua
+    border-botton: 5px solid;
+    font-size:35px;
+
